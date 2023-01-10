@@ -43,7 +43,7 @@
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
  
- - U must [RU.efi](RU.efi) Unlock `CFG LOCK`,U can watch my [video](https://www.bilibili.com/video/BV1LV4y1N7jF).
+ - U must use [RU.efi](RU.efi) Unlock `CFG LOCK` Before Hackintosh,U can watch my [video](https://www.bilibili.com/video/BV1LV4y1N7jF).
  
  
 ### ScreenShot 
