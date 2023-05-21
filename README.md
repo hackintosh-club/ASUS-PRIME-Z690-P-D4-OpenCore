@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -41,7 +41,7 @@
 
 ### Notes
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
+ - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
  
  - U must use [RU.efi](RU.efi) Unlock `CFG LOCK` Before Hackintosh,U can watch my [video](https://www.bilibili.com/video/BV1LV4y1N7jF).
  
@@ -67,4 +67,10 @@
 - SAMA Versailles 3 With DIY
 
 ![image](ScreenShot/CASE.png)
+
+### Contact Us
+
+QQ Group: 23304408
+
+![image](ScreenShot/QRCode.png)
 
