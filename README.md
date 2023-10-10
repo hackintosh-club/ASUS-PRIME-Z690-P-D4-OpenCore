@@ -2,11 +2,9 @@
 
 ![image](ScreenShot/Motherboard.png)
 
-### [简体中文](README.zh_CN.md)
-
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -42,10 +40,10 @@
 ### Notes
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
- 
+
  - U must use [RU.efi](RU.efi) Unlock `CFG LOCK` Before Hackintosh,U can watch my [video](https://www.bilibili.com/video/BV1LV4y1N7jF).
- 
- 
+
+
 ### ScreenShot 
 
 - About This Mac
