@@ -10,6 +10,7 @@
 
 - macOS Monterey 12.x
 - macOS Ventura  13.x 
+- macOS Sonoma 14.x
 
 ### Hardware
 
@@ -30,11 +31,15 @@
 - CASE Cooling: be quiet! Light Wings 120mm PWM RGB * 3 (Top *2 Back *1)
 - InputDevice: Logitech MX Keys + MX Master 2S + Apple Magic Trackpad 2 Grey
 
-
 ### Bios Setup
 
-| Name | Option |
-| ----- | --- |
+| Name               | Option   |      | Name          | Option   |
+| ------------------ | -------- | ---- | ------------- | -------- |
+| VT-d               | Enabled  |      | XHCI-Hand-Off | Enabled  |
+| Above 4G Decoding  | Enabled  |      | Fast Boot     | Disabled |
+| CSM                | Disabled |      | Secure Boot   | Disabled |
+| Resize Bar Support | Enabled  |      |               |          |
+
 
 
 ### Notes
